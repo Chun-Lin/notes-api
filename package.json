@@ -18,7 +18,7 @@
     "serverless-offline": "^5.3.3"
   },
   "dependencies": {
-    "aws-sdk": "^2.654.0",
+    "aws-sdk": "^2.814.0",
     "stripe": "^8.50.0",
     "uuid": "3.4.0"
   }
